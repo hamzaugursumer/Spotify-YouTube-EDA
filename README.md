@@ -14,6 +14,7 @@
 
 * **John Tukey'in EDA Tanımı :** 
    - "Verileri analiz etme prosedürleri, bu tür prosedürlerin sonuçlarını yorumlama teknikleri, analizini daha kolay, daha kesin veya daha doğru hale getirmek için veri toplamayı planlama yolları ve verilerin analizi için geçerli olan (matematiksel) istatistiklerin tüm makineleri ve sonuçları." (Tukey, John W. (1 Mayıs 1991). "Data Analysis". Fort Belvoir, VA.)
+   - <img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/16a3ce42-d0ba-4bd3-901f-606fa6aa023b" width="300" height="300" />
 
 ## 📌 **Veri Seti Hakkında**
 
