@@ -55,7 +55,7 @@ Dünyadaki çeşitli sanatçıların şarkılarından oluşan bir veri kümesidi
 5. DataFrame'in oluşturulması
 6. Veri Setinin incelenmesi (EDA ve Data Preprocessing)
 7. Aykırı Değerler
-8. İçgörüler :
+8. İçgörüler (Analizler) :
    - YouTube Metrikleri arasındaki Korelasyon
    - Top 10 Sanatçı YouTube İzlenme, Beğeni ve Spotify Stream Sayıları
    - Albüm Türüne göre Dağılım
