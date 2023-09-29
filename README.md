@@ -1,8 +1,10 @@
 # 📑 **Spotify ve YouTube Veri Seti ile Keşifsel Veri Analizi (EDA)** 
-![image](https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/b1a96964-2cce-4c6e-8171-fc5d32511e87)
 
+<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/b1a96964-2cce-4c6e-8171-fc5d32511e87" width="1200" height="500" />
 
 ## 📌 **Keşifsel Veri Analizi nedir ?** 
+
+<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/cec9fc0e-0341-491b-9af3-2a5aff811be6" width="1200" height="500" />
 
 * Keşifsel Veri Analizi (EDA), veri setlerini analiz etmek ve araştırmak için kullanılan bir yöntemdir. Veri bilimciler ve Veri analistleri, EDA’yı veri setlerinin temel özelliklerini belirlemek ve görselleştirmek için kullanır. EDA, veri kalıplarını keşfetmeye, anormallikleri tespit etmeye, hipotez testi yapmaya, veri içerisindeki örüntüleri anlamaya ve varsayımlarda bulunmaya yardımcı olur.
 
