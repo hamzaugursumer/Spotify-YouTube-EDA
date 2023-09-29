@@ -48,6 +48,8 @@ Dünyadaki çeşitli sanatçıların şarkılarından oluşan bir veri kümesidi
 
 ## 📌 **Yapılan Çalışmanın İçeriği ve Alt Başlıkları**
 
+* [Jupyter Çalışma Dosyası](https://github.com/hamzaugursumer/CapstoneProjectKodlasam/blob/main/Capsone%20Project%20EDA1.ipynb)
+
 1. Giriş
 2. Veri Kümesi Hakkında
 3. Sütunlar Hakkında
