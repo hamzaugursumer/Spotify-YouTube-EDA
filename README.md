@@ -10,6 +10,9 @@
 
 * EDA’nın alt başlıkları genellikle istatistiksel grafikler ve diğer veri görselleştirme yöntemlerini içerir. Ancak öncelikle EDA , verilerin bize resmi modelleme veya hipotez testi görevinin ötesinde neler söyleyebileceğini görmek için vardır. Bunların dışında veri setinde bu aşamayı yapmak ve sonrasında bir çalışmaya başlamak daha doğru sonuçların elde edilmesine katkı sağlar.
 
+* **John Tukey'in EDA Tanımı :**
+   - "Verileri analiz etme prosedürleri, bu tür prosedürlerin sonuçlarını yorumlama teknikleri, analizini daha kolay, daha kesin veya daha doğru hale getirmek için veri toplamayı planlama yolları ve verilerin analizi için geçerli olan (matematiksel) istatistiklerin tüm makineleri ve sonuçları." (Tukey, John W. (1 Mayıs 1991). "Data Analysis". Fort Belvoir, VA.)
+
 ## 📌 **Veri Seti Hakkında**
 
 * [Veri Seti](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
