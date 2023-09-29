@@ -1,10 +1,10 @@
 # 📑 **Spotify ve YouTube Veri Seti ile Keşifsel Veri Analizi (EDA)** 
 
-<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/b1a96964-2cce-4c6e-8171-fc5d32511e87" width="1200" height="500" />
+<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/blob/main/spotify%20and%20youtube.png" width="1200" height="500" />
 
 ## 📌 **Keşifsel Veri Analizi nedir ?** 
 
-<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/cec9fc0e-0341-491b-9af3-2a5aff811be6" width="1200" height="500" />
+<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/blob/main/Ak%C4%B1%C5%9F%20%C5%9Eemas%C4%B1.png" width="1200" height="500" />
 
 * Keşifsel Veri Analizi (EDA), veri setlerini analiz etmek ve araştırmak için kullanılan bir yöntemdir. Veri bilimciler ve Veri analistleri, EDA’yı veri setlerinin temel özelliklerini belirlemek ve görselleştirmek için kullanır. EDA, veri kalıplarını keşfetmeye, anormallikleri tespit etmeye, hipotez testi yapmaya, veri içerisindeki örüntüleri anlamaya ve varsayımlarda bulunmaya yardımcı olur.
 
@@ -14,7 +14,7 @@
 
 * **John Tukey'in EDA Tanımı :** 
    - "Verileri analiz etme prosedürleri, bu tür prosedürlerin sonuçlarını yorumlama teknikleri, analizini daha kolay, daha kesin veya daha doğru hale getirmek için veri toplamayı planlama yolları ve verilerin analizi için geçerli olan (matematiksel) istatistiklerin tüm makineleri ve sonuçları." (Tukey, John W. (1 Mayıs 1991). "Data Analysis". Fort Belvoir, VA.)
-   - <img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/16a3ce42-d0ba-4bd3-901f-606fa6aa023b" width="300" height="300" />
+   - <img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/blob/main/John%20Tukey.png" width="300" height="300" />
 
 ## 📌 **Veri Seti Hakkında**
 
