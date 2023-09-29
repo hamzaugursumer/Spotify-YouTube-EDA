@@ -12,6 +12,8 @@
 
 ## 📌 **Veri Seti Hakkında**
 
+* [Veri Seti](https://www.kaggle.com/datasets/salvatorerastelli/spotify-and-youtube)
+
 Dünyadaki çeşitli sanatçıların şarkılarından oluşan bir veri kümesidir ve her şarkı için aşağıdakiler mevcuttur:
 * Spotify'daki müzik versiyonunun akış sayısı da dahil olmak üzere çeşitli istatistikleri;
 * Şarkının resmi müzik videosunun youtube'daki izlenme sayısı.
