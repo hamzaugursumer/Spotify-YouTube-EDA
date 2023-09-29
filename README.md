@@ -1,6 +1,6 @@
 # 📑 **Spotify ve YouTube Veri Seti ile Keşifsel Veri Analizi (EDA)** 
-<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/2e9d697b-007d-4fc9-ad70-7ed6c9c567f5" width="500" height="400" />
-<img src="https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/03022dff-8ec1-4dc6-8fac-c25a782ca00d" width="500" height="400" />
+![image](https://github.com/hamzaugursumer/CapstoneProjectKodlasam/assets/127680099/b1a96964-2cce-4c6e-8171-fc5d32511e87)
+
 
 ## 📌 **Keşifsel Veri Analizi nedir ?** 
 
