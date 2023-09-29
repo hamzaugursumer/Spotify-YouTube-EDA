@@ -72,3 +72,8 @@ Dünyadaki çeşitli sanatçıların şarkılarından oluşan bir veri kümesidi
    - Enerji, Dans Edilebilirlik ve Duygu durumlarına göre Top 1 Sanatçıların Yüzde Değerleri
 
    
+**NOT :** 
+* Yaptığım çalışmada plotly kütüphanesi ile görselleştirdiğim analizler dosyada görüntülenmemektedir Github'dan dolayı. Ancak kodlar çalıştırıldığında görselleştirmeler oluşmaktadır.
+* Bu çalışma boyunca, Spotify ve YouTube hakkında kapsamlı bir keşifsel veri analizi gerçekleştirdim ve veri setinin içindeki bilgilere ulaşmak için çeşitli analitik yöntemleri uyguladım. Verilerin temizlenmesi, görselleştirilmesi ve anlaşılması süreci, projemin temelini oluşturdu ve bu aşamada edindiğim bilgiler, Veri analisti olma sürecime ışık tuttu.
+* Bu projeyi başarıyla tamamlamamda yardımcı olan herkese teşekkür etmek isterim. Ayrıca, herhangi bir geri bildiriminiz veya öneriniz varsa, lütfen çekinmeden paylaşın. Bu, gelecekteki çalışmalarımızı daha da iyileştirmemize yardımcı olacaktır.
+* Son olarak ⭐ vermeyi unutmayın, Teşekkürler.
